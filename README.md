@@ -13,9 +13,14 @@
 - git commit -m "initial commit"
 - git push origin HEAD
 
+
 ### Git Command
 - git -a (Show hidden file)
 - touch test.txt (create new file)
+- git rm --cached test.txt (remove from status)
+
+### Vim
+- :wq (vim exit)
 
 ### Deploy
 
