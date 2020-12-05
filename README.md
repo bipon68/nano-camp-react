@@ -6,15 +6,17 @@
 
 
 ### Run project
-- json-server --watch db.json
+
 
 ### Git
 - git add .
 - git commit -m "initial commit"
-- git push origin HEAD
+- git push origin HEAD or git push -u origin master
 
 
 ### Git Command
+- git log (git history showing) (Note: closing console then press 'q')
+- git pull origin master (get all data from remote)
 - git -a (Show hidden file)
 - touch test.txt (create new file)
 - git rm --cached test.txt (remove from status)
