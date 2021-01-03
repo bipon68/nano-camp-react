@@ -5,6 +5,10 @@
 - install globally `npm i -g create-react-app`
 - Step 1 : `create-react-app stack-bucket-react`
 - Step 2 : `npm start` or `yarn start`
+- React Helmet `yarn add react-helmet`
+
+## Reference 
+- [React Helmet](https://www.npmjs.com/package/react-helmet) 
 
 
 ### Project Creation step by step
