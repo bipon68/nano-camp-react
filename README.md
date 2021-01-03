@@ -1,6 +1,11 @@
 # Nano Camp React
 
 
+### Stack bucket project creation
+- install globally `npm i -g create-react-app`
+- Step 1 : `create-react-app stack-bucket-react`
+
+
 ### Project Creation step by step
 - git init
 
