@@ -4,6 +4,7 @@ import {Helmet} from "react-helmet";
 // custom component
 
 import BucketPage from "../pages/buckets";
+import BucketDetailPage from "../pages/bucket-detail";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       </Helmet>
       <p>learning react</p>
       <BucketPage />
+      <BucketDetailPage />
     </div>
   );
 }
