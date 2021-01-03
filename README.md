@@ -4,6 +4,7 @@
 ### Stack bucket project creation
 - install globally `npm i -g create-react-app`
 - Step 1 : `create-react-app stack-bucket-react`
+- Step 2 : `npm start` or `yarn start`
 
 
 ### Project Creation step by step
